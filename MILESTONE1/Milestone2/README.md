@@ -374,7 +374,7 @@ Configure the following secrets before running the application:
 
 ## 🏠 Home Page
 
-![Home](<img width="919" height="410" alt="home page" src="https://github.com/user-attachments/assets/538a2418-1c24-4644-911f-810668915eba" /> / )
+<img width="919" height="410" alt="home page" src="https://github.com/user-attachments/assets/538a2418-1c24-4644-911f-810668915eba" /> 
 
 ---
 
