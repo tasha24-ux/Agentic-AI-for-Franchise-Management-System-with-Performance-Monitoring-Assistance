@@ -380,50 +380,48 @@ Configure the following secrets before running the application:
 
 ## 🔑 Login Page
 
-![Login]( <img width="488" height="347" alt="login page" src="https://github.com/user-attachments/assets/324ce726-caac-492e-bef9-8084f48d1862" /> 
-/)
+ <img width="488" height="347" alt="login page" src="https://github.com/user-attachments/assets/324ce726-caac-492e-bef9-8084f48d1862" />
+
 
 ---
 
 ## 🤖 AI Copilot
 
-![AI](<img width="946" height="369" alt="AI copilot" src="https://github.com/user-attachments/assets/0f7ea932-1a08-494e-93e9-4c3ad2b3765f" />)
+<img width="946" height="369" alt="AI copilot" src="https://github.com/user-attachments/assets/0f7ea932-1a08-494e-93e9-4c3ad2b3765f" />
 
 ---
 
 ## 🌦 Weather Demo
 
-![Weather](<img width="953" height="407" alt="weather demo" src="https://github.com/user-attachments/assets/ea96d712-4e5f-4628-9d84-0e27020ddcc3"/> /
-)
+<img width="953" height="407" alt="weather demo" src="https://github.com/user-attachments/assets/ea96d712-4e5f-4628-9d84-0e27020ddcc3"/> 
 
 ---
 
 ## 📊 Outlet Tiering
 
-![Tiering]( <img width="846" height="299" alt="outlet tiering" src="https://github.com/user-attachments/assets/f7a6b8e9-b972-4d17-9a9a-88467e0f6428" /> /
-)
+ <img width="846" height="299" alt="outlet tiering" src="https://github.com/user-attachments/assets/f7a6b8e9-b972-4d17-9a9a-88467e0f6428" />
 
 ---
 
 ## 👨‍💼 Admin Dashboard
 
-![Admin](<img width="946" height="404" alt="admin png" src="https://github.com/user-attachments/assets/9952a2de-d245-4822-900e-36a5a84d11f5" />
+(<img width="946" height="404" alt="admin png" src="https://github.com/user-attachments/assets/9952a2de-d245-4822-900e-36a5a84d11f5" />
 
 
-)
+
 
 ---
 
 ## 📈 ML Model Card
 
-![ML](<img width="951" height="154" alt="account information" src="https://github.com/user-attachments/assets/086360bc-155b-43e5-9c48-57e6b88483b5" /> /)
+(<img width="951" height="154" alt="account information" src="https://github.com/user-attachments/assets/086360bc-155b-43e5-9c48-57e6b88483b5" />
 
 ---
 
 ## 🔒 Account Lockout
 
-![Lockout](<img width="948" height="408" alt="ML model card png" src="https://github.com/user-attachments/assets/81ba0a7f-1070-4250-bb2f-858683cb3a96" /> /
-)
+<img width="948" height="408" alt="ML model card png" src="https://github.com/user-attachments/assets/81ba0a7f-1070-4250-bb2f-858683cb3a96" /> 
+
 
 ---
 
