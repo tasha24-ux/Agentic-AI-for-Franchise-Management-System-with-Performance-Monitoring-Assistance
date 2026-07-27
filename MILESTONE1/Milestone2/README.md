@@ -312,31 +312,6 @@ The dashboard also displays
 
 ---
 
-#  Folder Structure
-
-```
-Milestone2/
-
-│
-├── app.py
-├── auth.py
-├── admin_dash.py
-├── db.py
-├── ui_theme.py
-├── llm_engine_franchise.py
-├── train_m2_franchise.py
-├── requirements.txt
-├── README.md
-├── FranchiseOps_AI_Milestone2.ipynb
-│
-├── models/
-│
-├── screenshots/
-│
-└── datasets/
-```
-
----
 
 # ⚙ Installation Guide
 
@@ -399,13 +374,14 @@ Configure the following secrets before running the application:
 
 ## 🏠 Home Page
 
-![Home](screenshots/home.png)
+![Home](<img width="919" height="410" alt="home page" src="https://github.com/user-attachments/assets/538a2418-1c24-4644-911f-810668915eba" /> / )
 
 ---
 
 ## 🔑 Login Page
 
-![Login](screenshots/login.png)
+![Login]( <img width="488" height="347" alt="login page" src="https://github.com/user-attachments/assets/324ce726-caac-492e-bef9-8084f48d1862" /> 
+/)
 
 ---
 
@@ -417,13 +393,15 @@ Configure the following secrets before running the application:
 
 ## 🌦 Weather Demo
 
-![Weather](screenshots/weather_demo.png)
+![Weather](<img width="953" height="407" alt="weather demo" src="https://github.com/user-attachments/assets/ea96d712-4e5f-4628-9d84-0e27020ddcc3"/> /
+)
 
 ---
 
 ## 📊 Outlet Tiering
 
-![Tiering](screenshots/outlet_tiers.png)
+![Tiering]( <img width="846" height="299" alt="outlet tiering" src="https://github.com/user-attachments/assets/f7a6b8e9-b972-4d17-9a9a-88467e0f6428" /> /
+)
 
 ---
 
@@ -438,13 +416,14 @@ Configure the following secrets before running the application:
 
 ## 📈 ML Model Card
 
-![ML](<img width="951" height="154" alt="account information" src="https://github.com/user-attachments/assets/086360bc-155b-43e5-9c48-57e6b88483b5" />)
+![ML](<img width="951" height="154" alt="account information" src="https://github.com/user-attachments/assets/086360bc-155b-43e5-9c48-57e6b88483b5" /> /)
 
 ---
 
 ## 🔒 Account Lockout
 
-![Lockout](<img width="948" height="408" alt="ML model card png" src="https://github.com/user-attachments/assets/81ba0a7f-1070-4250-bb2f-858683cb3a96" />)
+![Lockout](<img width="948" height="408" alt="ML model card png" src="https://github.com/user-attachments/assets/81ba0a7f-1070-4250-bb2f-858683cb3a96" /> /
+)
 
 ---
 
