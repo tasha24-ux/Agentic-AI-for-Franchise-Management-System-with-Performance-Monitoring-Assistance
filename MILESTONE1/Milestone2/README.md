@@ -1,3 +1,5 @@
+<img width="932" height="456" alt="6b_deployment_test png" src="https://github.com/user-attachments/assets/d3d5ac07-8c20-4fe3-acfd-9197e846fb9a" />
+<img width="946" height="404" alt="admin png" src="https://github.com/user-attachments/assets/9952a2de-d245-4822-900e-36a5a84d11f5" />
 # FranchiseOps AI Platform
 ### AI-Powered Intelligent Franchise Management System
 
