@@ -1,5 +1,3 @@
-<img width="932" height="456" alt="6b_deployment_test png" src="https://github.com/user-attachments/assets/d3d5ac07-8c20-4fe3-acfd-9197e846fb9a" />
-<img width="946" height="404" alt="admin png" src="https://github.com/user-attachments/assets/9952a2de-d245-4822-900e-36a5a84d11f5" />
 # FranchiseOps AI Platform
 ### AI-Powered Intelligent Franchise Management System
 
@@ -413,7 +411,7 @@ Configure the following secrets before running the application:
 
 ## 🤖 AI Copilot
 
-![AI](screenshots/ai_copilot.png)
+![AI](<img width="946" height="369" alt="AI copilot" src="https://github.com/user-attachments/assets/0f7ea932-1a08-494e-93e9-4c3ad2b3765f" />)
 
 ---
 
@@ -431,25 +429,26 @@ Configure the following secrets before running the application:
 
 ## 👨‍💼 Admin Dashboard
 
-![Admin](screenshots/admin_dashboard.png)
+![Admin](<img width="946" height="404" alt="admin png" src="https://github.com/user-attachments/assets/9952a2de-d245-4822-900e-36a5a84d11f5" />
+
+
+)
 
 ---
 
 ## 📈 ML Model Card
 
-![ML](screenshots/ml_models.png)
+![ML](<img width="951" height="154" alt="account information" src="https://github.com/user-attachments/assets/086360bc-155b-43e5-9c48-57e6b88483b5" />)
 
 ---
 
 ## 🔒 Account Lockout
 
-![Lockout](screenshots/lockout.png)
+![Lockout](<img width="948" height="408" alt="ML model card png" src="https://github.com/user-attachments/assets/81ba0a7f-1070-4250-bb2f-858683cb3a96" />)
 
 ---
 
-## 📩 OTP Cooldown
 
-![OTP](screenshots/otp_cooldown.png)
 
 ---
 
