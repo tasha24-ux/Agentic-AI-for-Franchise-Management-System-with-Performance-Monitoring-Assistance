@@ -1,5 +1,7 @@
 🚀 FranchiseOps AI — Aurora Command
 
+AI-powered franchise operations, analytics & decision intelligence platform
+
 AI-powered franchise operations, analytics, and decision intelligence platform
 
 FranchiseOps AI — Aurora Command brings together predictive analytics, AI-assisted decision support, document RAG, multilingual translation, anomaly detection, operational simulation, and role-based franchise management in one unified Streamlit application.
