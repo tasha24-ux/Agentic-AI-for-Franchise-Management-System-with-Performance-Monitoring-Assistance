@@ -173,6 +173,8 @@ Open Jupyter Notebook and execute:
 * `FranchiseOps_RAG_Builder.ipynb`
 
 ---
+# Output 
+<img width="600" height="371" alt="output" src="https://github.com/user-attachments/assets/1d6518be-189f-47aa-9a34-5fbdcfe11a9e" />
 
 # Features
 
